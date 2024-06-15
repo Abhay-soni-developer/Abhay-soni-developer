@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 I am an experienced software developer specializing in the MERN stack with over 5 years of expertise. My background includes extensive work with front-end technologies like React.js, HTML5, and CSS3, as well as back-end technologies such as Node.js and Express.js. In my role as a Senior Fullstack Developer, I design, develop, and maintain robust applications, honing my problem-solving skills and technical expertise. I have a proven track record of mentoring junior engineers and ensuring the timely and successful completion of projects. Additionally, I have worked with AWS  to deliver high-performance, scalable solutions. My experience in system design, sprint management, and API development positions me well to make significant contributions to any team. I am passionate about leveraging my skills to solve complex problems and drive technological advancements.
 
 
-# ACHIEVEMENTS / CERTIFICATION
+## ACHIEVEMENTS / CERTIFICATION
 - Recognised and awarded star of the sprint for my contribution as full stack developer in a ValidateMe project (Qainfotech).
 - Completed MongoDB official certification, course name: M-001.
 - Open source contribution to loblaw-sre/backstage-plugin-gitlab pull Request 135, a project with more than 1400+ weekly downloads.
