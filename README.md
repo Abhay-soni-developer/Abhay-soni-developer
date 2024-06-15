@@ -37,5 +37,22 @@ Here are some ideas to get you started:
 | Roles                 | ![System Design](https://img.shields.io/badge/System%20Design-0000FF?style=for-the-badge&logo=blueprint&logoColor=white) ![Sprint Board Management](https://img.shields.io/badge/Sprint%20Board%20Management-FF5733?style=for-the-badge&logo=jira&logoColor=white) ![Tech-Lead](https://img.shields.io/badge/Tech--Lead-800080?style=for-the-badge&logo=lead&logoColor=white) ![Code Reviewer](https://img.shields.io/badge/Code%20Reviewer-800000?style=for-the-badge&logo=codefactor&logoColor=white) |
 ---
 
-> I am an experienced software developer specializing in the MERN stack with over 5 years of expertise. My background includes extensive work with front-end technologies like React.js, HTML5, and CSS3, as well as back-end technologies such as Node.js and Express.js. In my role as a Senior Fullstack Developer, I design, develop, and maintain robust applications, honing my problem-solving skills and technical expertise. I have a proven track record of mentoring junior engineers and ensuring the timely and successful completion of projects. Additionally, I have worked with AWS  to deliver high-performance, scalable solutions. My experience in system design, sprint management, and API development positions me well to make significant contributions to any team. I am passionate about leveraging my skills to solve complex problems and drive technological advancements.
+# About me
+I am an experienced software developer specializing in the MERN stack with over 5 years of expertise. My background includes extensive work with front-end technologies like React.js, HTML5, and CSS3, as well as back-end technologies such as Node.js and Express.js. In my role as a Senior Fullstack Developer, I design, develop, and maintain robust applications, honing my problem-solving skills and technical expertise. I have a proven track record of mentoring junior engineers and ensuring the timely and successful completion of projects. Additionally, I have worked with AWS  to deliver high-performance, scalable solutions. My experience in system design, sprint management, and API development positions me well to make significant contributions to any team. I am passionate about leveraging my skills to solve complex problems and drive technological advancements.
+
+
+# ACHIEVEMENTS / CERTIFICATION
+- Recognised and awarded star of the sprint for my contribution as full stack developer in a ValidateMe project (Qainfotech).
+- Completed MongoDB official certification, course name: M-001.
+- Open source contribution to loblaw-sre/backstage-plugin-gitlab pull Request 135, a project with more than 1400+ weekly downloads.
+- Open source contribution to Spotify project backstage with more than 900+ contributors,  20.7k stars and 3.6k forks. Pull request
+    - [Entity Dependencies Card Enhancements](https://github.com/backstage/backstage/pull/18504)
+    - [Adding StatusNeo GitHub Plugin](https://github.com/backstage/backstage/pull/16877)
+    - [Microsoft Calendar Plugin](https://github.com/backstage/backstage/pull/16101)
+    - [Extended EntityJenkinsContent Table](https://github.com/backstage/backstage/pull/19951)
+    - [Jenkins JobRunTable Added](https://github.com/backstage/backstage/pull/19881)
+- My blogs that were published by statusneo 
+    - (https://statusneo.com/23392-2/
+    )[abhay soni - microsoft calendar plugin – rear portal - status neo]
+    - (https://statusneo.com/23468-2/)[backstage plugin: github cards - statusneo]
 
