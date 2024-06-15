@@ -52,6 +52,6 @@ I am an experienced software developer specializing in the MERN stack with over 
     - [Extended EntityJenkinsContent Table](https://github.com/backstage/backstage/pull/19951)
     - [Jenkins JobRunTable Added](https://github.com/backstage/backstage/pull/19881)
 - My blogs that were published by statusneo 
-    - [https://statusneo.com/23392-2/](abhay soni - microsoft calendar plugin – rear portal - status neo)
-    - [https://statusneo.com/23468-2/](backstage plugin: github cards - statusneo)
+    - [abhay soni - microsoft calendar plugin – rear portal - status neo](https://statusneo.com/23392-2/ )
+    - [backstage plugin: github cards - statusneo](https://statusneo.com/23468-2/)
 
