@@ -28,9 +28,9 @@ I’m passionate about clean architecture, developer experience, and building so
 |---------------------|------------|
 | **Languages**       | JavaScript (ES6+), TypeScript, Java |
 | **Frontend**        | React, Zustand, Redux, React Query, Zod, Material UI |
-| **Backend**         | Node.js, Express, Microservices, SQS, Serverless |
-| **Databases**       | MongoDB, MySQL, Redis, Elasticsearch |
-| **DevOps & Cloud**  | AWS (Lambda, SQS, SNS, Kinesis, CloudFront), Docker, GitHub Actions, Jenkins |
+| **Backend**         | Node.js, Express, Microservices, SQS, Serverless, GraphQL |
+| **Databases**       | MongoDB, MySQL, Redis, Elasticsearch, DynamoDB |
+| **DevOps & Cloud**  | AWS (Lambda, SQS, SNS, Kinesis, CloudFront), Docker, GitHub Actions, Jenkins, Kafka |
 | **Concepts**        | OOP, SOLID, DRY, Async Programming, Monorepo, CQRS, CDC |
 | **Roles**           | Tech Lead, Sprint Manager, Code Reviewer |
 
