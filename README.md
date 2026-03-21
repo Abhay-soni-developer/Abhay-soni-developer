@@ -67,6 +67,13 @@ I’m passionate about clean architecture, developer experience, and building so
 - 📝 Blogs on OSS and plugins:
   - [Microsoft Calendar Plugin – StatusNeo](https://statusneo.com/23392-2/)
   - [GitHub Cards Plugin – StatusNeo](https://statusneo.com/23468-2/)
+ 
+---
+## My Articles
+
+- [Bringing Calendar Visibility into Backstage: Building a Microsoft Calendar Plugin](https://medium.com/@abhaysoni.developer/bringing-calendar-visibility-into-backstage-building-a-microsoft-calendar-plugin-278cfbbcbe6e)
+- [Building a GitHub Insights Dashboard for Backstage: Eliminating Context Switching for Developers](https://medium.com/@abhaysoni.developer/building-a-github-insights-dashboard-for-backstage-eliminating-context-switching-for-developers-288f62a62c44)
+- [Kafka, Disk Tiered Storage, and the Rise of Diskless Streaming Architectures](https://medium.com/@abhaysoni.developer/kafka-disk-tiered-storage-and-the-rise-of-diskless-streaming-architectures-8fffcf9462bc)
 
 ---
 
