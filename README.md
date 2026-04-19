@@ -6,11 +6,12 @@
 ---
 
 ## 📬 Reach Me
+[![Portfolio](https://img.shields.io/badge/Web-Portfolio-magenta)](https://abhaysoni.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:abhaysoni.developer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhay-soni-dev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=9650465825)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abhaysoni.developer)
-[![Resume](https://img.shields.io/badge/Resume-PDF-blueviolet)](https://your-resume-link.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://blog.abhaysoni.dev)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blueviolet)](https://go.abhaysoni.dev/resume)
 
 ---
 
