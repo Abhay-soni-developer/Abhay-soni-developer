@@ -55,8 +55,7 @@ My engineering philosophy goes beyond delivering features. I'm driven by **runti
 - Worked on a **blockchain-powered digital credentialing platform** designed to issue, manage, and verify tamper-resistant certificates, academic credentials, and digital documents.
 - Contributed to a product ecosystem focused on **document authenticity, secure verification, and digital identity**, helping organizations establish trust in issued credentials.
 - Gained hands-on experience in **blockchain-based applications and full-stack product engineering**, addressing real-world challenges around document forgery and credential verification.
-
-🔗 **[Explore ItsCredible](https://itscredible.com/)**
+🔗 [Explore ItsCredible](https://itscredible.com/)
 ---
 
 ## 🏆 Achievements
