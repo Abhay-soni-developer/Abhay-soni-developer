@@ -14,9 +14,13 @@
 
 ## 🧠 About Me
 
-I'm a Full Stack Developer with **5+ years of experience** specializing in the **MERN stack** and scalable backend architecture.  
-I’ve built systems for **thousands of users**, contributed to **high-impact open-source projects**, and led teams through fast-paced, high-stakes product cycles.  
-I’m passionate about clean architecture, developer experience, and building software that actually delivers value.
+I'm a **Software Engineer with 5+ years of experience**, specializing in **JavaScript, TypeScript, React, Node.js, and cloud-native backend systems**.
+
+I've engineered **high-throughput order management systems, event-driven architectures, CQRS/CDC pipelines, and serverless infrastructure**, alongside contributions to the **Backstage open-source ecosystem**.
+
+My engineering philosophy goes beyond delivering features. I'm driven by **runtime internals, distributed-system trade-offs, performance, scalability, and clean architecture**.
+
+**I don't just build systems that work. I strive to understand why they work, where they break, and how to engineer them to evolve.**
 
 ---
 
