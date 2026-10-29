@@ -1,8 +1,6 @@
 # 👨‍💻 Abhay Soni
 
 ##### Hey 👋, I'm Abhay Soni and you've reached my code garden!  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay-soni-developer&theme=github)
-
 ---
 
 ## 📬 Reach Me
