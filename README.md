@@ -1,7 +1,6 @@
 # 👨‍💻 Abhay Soni
 
 ##### Hey 👋, I'm Abhay Soni and you've reached my code garden!  
----
 
 ## 📬 Reach Me
 [![Portfolio](https://img.shields.io/badge/Web-Portfolio-magenta)](https://abhaysoni.dev)
@@ -58,15 +57,17 @@ I’m passionate about clean architecture, developer experience, and building so
 
 - ⭐ **Star of the Sprint** – QA Infotech (ValidateMe project)
 - ✅ **MongoDB M001 Certified**
-- 🔧 Contributed 5+ PRs to [Spotify's Backstage](https://github.com/backstage/backstage):
-  - [Microsoft Calendar Plugin](https://github.com/backstage/backstage/pull/16101)
-  - [EntityJenkinsContent Enhancements](https://github.com/backstage/backstage/pull/19951)
-  - [Jenkins Job Run Table](https://github.com/backstage/backstage/pull/19881)
-  - [GitHub Plugin](https://github.com/backstage/backstage/pull/16877)
-- 📝 Blogs on OSS and plugins:
-  - [Microsoft Calendar Plugin – StatusNeo](https://statusneo.com/23392-2/)
-  - [GitHub Cards Plugin – StatusNeo](https://statusneo.com/23468-2/)
+- 🔧 **Successfully have done 5+ Open Source Contribution**
  
+---
+## Open-Source Contributions
+
+| Contribution | Engineering Focus | Pull Request |
+|---|---|---|
+| Microsoft Calendar Plugin | Calendar integration and developer experience | [PR #16101](https://github.com/backstage/backstage/pull/16101) |
+| GitHub Plugin | GitHub integration and dashboard functionality | [PR #16877](https://github.com/backstage/backstage/pull/16877) |
+| Jenkins Job Run Table | CI/CD visibility and job execution information | [PR #19881](https://github.com/backstage/backstage/pull/19881) |
+| EntityJenkinsContent Enhancements | Jenkins integration improvements | [PR #19951](https://github.com/backstage/backstage/pull/19951) |
 ---
 ## My Articles
 
