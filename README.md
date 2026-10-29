@@ -69,11 +69,38 @@ I’m passionate about clean architecture, developer experience, and building so
 | Jenkins Job Run Table | CI/CD visibility and job execution information | [PR #19881](https://github.com/backstage/backstage/pull/19881) |
 | EntityJenkinsContent Enhancements | Jenkins integration improvements | [PR #19951](https://github.com/backstage/backstage/pull/19951) |
 ---
-## My Articles
 
-- [Bringing Calendar Visibility into Backstage: Building a Microsoft Calendar Plugin](https://medium.com/@abhaysoni.developer/bringing-calendar-visibility-into-backstage-building-a-microsoft-calendar-plugin-278cfbbcbe6e)
-- [Building a GitHub Insights Dashboard for Backstage: Eliminating Context Switching for Developers](https://medium.com/@abhaysoni.developer/building-a-github-insights-dashboard-for-backstage-eliminating-context-switching-for-developers-288f62a62c44)
-- [Kafka, Disk Tiered Storage, and the Rise of Diskless Streaming Architectures](https://medium.com/@abhaysoni.developer/kafka-disk-tiered-storage-and-the-rise-of-diskless-streaming-architectures-8fffcf9462bc)
+## ✍️ Featured Technical Articles
+
+Exploring system design, distributed systems, cloud architecture, and real-world engineering challenges.
+
+### 🥇 1. [Video on Demand Architecture: Prepare First, Deliver Later](https://abhaysonidev.medium.com/video-on-demand-architecture-prepare-first-deliver-later-630bba794771)
+
+**`System Design` · `Distributed Systems` · `AWS`**
+
+Exploring end-to-end video streaming architecture, including transcoding pipelines, CDN delivery, DRM, and strategies for building scalable video-on-demand platforms.
+
+### 🥈 2. [Generating Unique IDs Sounds Easy — Until Your System Hits Scale](https://abhaysonidev.medium.com/generating-unique-ids-sounds-easy-until-your-system-hits-scale-22f8900bea43)
+
+**`Distributed Systems` · `Database Design` · `Scalability`**
+
+Understanding the challenges of generating unique identifiers at scale, exploring distributed ID generation strategies, architectural trade-offs, and scalability considerations.
+
+### 🥉 3. [Bringing Calendar Visibility into Backstage: Building a Microsoft Calendar Plugin](https://abhaysonidev.medium.com/bringing-calendar-visibility-into-backstage-building-a-microsoft-calendar-plugin-278cfbbcbe6e)
+
+**`Open Source` · `React` · `API Integration`**
+
+A practical exploration of building a Microsoft Calendar integration for Backstage, covering developer experience, third-party API integration, authentication, and caching considerations.
+
+### 🏅 4. [Kafka, Disk Tiered Storage, and the Rise of Diskless Streaming Architectures](https://medium.com/@abhaysoni.developer/kafka-disk-tiered-storage-and-the-rise-of-diskless-streaming-architectures-8fffcf9462bc)
+
+**`Apache Kafka` · `Event-Driven Architecture` · `Distributed Storage`**
+
+Exploring Kafka's evolving storage architecture, tiered storage, and the shift toward diskless streaming systems, with a focus on scalability, storage efficiency, and decoupling compute from storage.
+
+---
+
+📚 **[Explore All My Technical Articles →](https://abhaysonidev.medium.com)**
 
 ---
 
