@@ -57,7 +57,7 @@ I’m passionate about clean architecture, developer experience, and building so
 
 - ⭐ **Star of the Sprint** – QA Infotech (ValidateMe project)
 - ✅ **MongoDB M001 Certified**
-- 🔧 **Successfully have done 5+ Open Source Contribution**
+- 🔧 🔧 Successfully contributed to 5+ **open-source projects and initiatives**.
  
 ---
 ## Open-Source Contributions
